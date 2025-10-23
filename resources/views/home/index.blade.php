@@ -7,7 +7,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-12 col-12">
                 <div class="header-content">
-                    <h1>Sistem Manajemen Aset Internal PT Panen Embun Kemakmuran</h1>
+                    {{-- <h1>Sistem Manajemen Aset Internal PT Panen Embun Kemakmuran</h1> --}}
                     <p>
                         Platform terintegrasi untuk pengelolaan aset perusahaan air mineral terkemuka di Kalimantan Selatan.
                         Kelola inventarisasi peralatan produksi, kendaraan operasional, mesin, dan aset kantor dengan sistem yang transparan dan akuntabel.
